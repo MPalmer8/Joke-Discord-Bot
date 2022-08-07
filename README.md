@@ -1,5 +1,5 @@
 # Joke-Discord-Bot
-An interactive Discord Bot used to generate jokes from an API and has various other uses
+An interactive Discord Bot used to generate jokes from an API and has various other uses. Created using Python
 
 Commands:
 ,joke - Fetch a joke from any category from the Joke API
