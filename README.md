@@ -2,6 +2,7 @@
 An interactive Discord Bot used to generate jokes from an API and has various other uses. Created using Python
 
 Commands:
+
 ,joke - Fetch a joke from any category from the Joke API
 
 ,joke (category) - Fetch a joke from a specific category from the Joke API (Categories = programming, misc, pun, spooky, christmas, dark)
